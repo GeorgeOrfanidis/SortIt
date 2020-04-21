@@ -1,0 +1,7 @@
+Sorted Strings:
+aris 
+boca  
+corintho  
+olympiacos 
+winthrop 
+xanthi 

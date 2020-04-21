@@ -1,0 +1,4 @@
+Add a String to be sorted
+Do you want to add another String? If yes type yes,else no
+Sorted Strings:
+fjskl; 
